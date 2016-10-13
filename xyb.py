@@ -27,7 +27,7 @@ headers = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/
            'Referer' : 'https://www.xyb100.com/login'}  
 #构造Post数据，他也是从抓大的包里分析得出的。  
 postData = {'username' : '15010802028',
-            'pwd' : 'amber1203', 
+            'pwd' : '', 
             'errorCount' : '0',
             'vcode' : ''
             }  
